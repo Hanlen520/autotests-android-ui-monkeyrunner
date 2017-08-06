@@ -4,13 +4,10 @@ Created automated tests using general stack of technologies: Python + Monkeyrunn
 Task:
 - Create automated tests based on the requirements:
     - User must be able to add different test cases suite in test framework 
-    - Test framework must contain tests of three types: 
-     - checking of application using random action generation
-     - checking of application using hardcore action generation
-     - screenshots comparing
+    - Test framework must contain tests of three types: checking of application using random action generation, checking of application using hardcore action generation and screenshots comparing
 
 General stack of technologies: 
-- Java + WebDriver + JUnit + mvn
+- Python + Monkeyrunner + Android
 
 Preconditions:
 - Installed PyCharm IDE
